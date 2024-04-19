@@ -1,0 +1,7 @@
+../Core/Src/HAL_ESP8266.c:3:6:UART_SendString	1
+../Core/Src/HAL_ESP8266.c:6:6:UART_ReceiveString	1
+../Core/Src/HAL_ESP8266.c:9:6:GPIO_Init	1
+../Core/Src/HAL_ESP8266.c:27:6:UART2_Init	2
+../Core/Src/HAL_ESP8266.c:41:6:esp8266_init	5
+../Core/Src/HAL_ESP8266.c:107:6:esp8266_conect	6
+../Core/Src/HAL_ESP8266.c:155:6:esp8266_changesever	2

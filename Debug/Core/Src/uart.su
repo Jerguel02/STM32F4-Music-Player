@@ -1,0 +1,9 @@
+../Drivers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Drivers/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	16	static
+../Core/Src/uart.c:9:5:__io_putchar	16	static
+../Core/Src/uart.c:16:6:uart1_tx_rx_init	8	static
+../Core/Src/uart.c:55:6:uart1_rx_interrupt_init	8	static
+../Core/Src/uart.c:96:6:uart1_read	4	static
+../Core/Src/uart.c:103:6:uart1_write	16	static
+../Core/Src/uart.c:109:13:uart_set_baundrate	24	static
+../Core/Src/uart.c:113:17:compute_uart_div	16	static
